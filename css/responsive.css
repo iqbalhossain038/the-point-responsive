@@ -1,0 +1,121 @@
+/*small device*/
+@media only screen and (min-width:200px) and (max-width:575px){
+    
+    header#header { border-top: 0px;padding-bottom: 25px;}    
+    .logo_area { width: 100%; text-align: center;}
+    .logo_area img {margin-top: 20px;}
+    .search_area { margin-top: 70px;text-align: center;float: none} 
+    .search_area input:first-child {outline: none;}
+    .social_area {float: right;width: unset;margin-left: 29%;float: none}
+    section#menu_area {padding-top: 5px;padding-bottom: 5px;}
+    .marquee {margin-bottom: 20px;}
+    .titltArea {margin-top: 10px;}
+    .titltArea h2 {	font-size: 27px;}
+    .titltArea p {	font-size: 20px;margin-bottom: 35px;}
+    .sBox1 {width: 98%;padding-bottom: 10px;}
+    .singleBox1:nth-child(4) {	float: right;margin-right: 0;}
+    .singleBox1:nth-child(2) {margin-right: 0px;float: right;}
+    .singleBox1 {margin-bottom: 20px;width: 46%;}
+    .singleBox1 img {width: 85%;}
+    section#projectArea {padding-top: 35px;padding-bottom: 0px;}
+    .prejectEndArea {width: 100%;text-align: center}
+    .prejectEndArea h1 {font-size: 51px;margin-top: 0px;margin-right: 0px;}
+    .myBoxArea {	width: 100%;margin-top: 35px;}
+    .single_box_2 {float: left;	width: 100%;margin-bottom: 40px;}
+    .single_footer1 {width: 100%;}
+    .single_footer2 {width: 100%;margin-bottom: 40px;padding-left: 0px}
+    .single_footer1 a {margin-top: 15px;margin-bottom: 30px;float: right;}
+    .single_footer3 {width: 100%;padding-left: 0}
+    .single_footer3 input {	width: 50%;	display: block;}
+    input.footer_btn {	width: 86px !important;}
+    .border_area {	padding-bottom: 25px;} 
+    
+    
+        
+}
+
+
+/*medium device*/
+
+@media only screen and (min-width:576px) and (max-width:767px){
+    
+    header#header { border-top: 0px;padding-bottom: 25px;}    
+    .logo_area { width: 100%; text-align: center;}   
+    .logo_area img {margin-top: 20px;}
+    .search_area { margin-top: 80px;text-align: center;float: none} 
+    .search_area input:first-child {outline: none;}
+    .social_area {float: right;width: unset;margin-left: 37%;float: none}
+    section#menu_area {padding-top: 8px;padding-bottom: 8px;}
+    .marquee {margin-bottom: 20px;}
+    .titltArea {margin-top: 10px;}
+    .titltArea h2 {	font-size: 27px;}
+    .titltArea p {	font-size: 20px;margin-bottom: 35px;}
+    .sBox1 {width: 70%;padding-bottom: 10px;}
+    .singleBox1:nth-child(4) {	float: right;margin-right: 0;}
+    .singleBox1:nth-child(2) {margin-right: 0px;float: right;}
+    .singleBox1 {margin-bottom: 20px;width: 46%;}
+    .singleBox1 img {width: 85%;}
+    section#projectArea {padding-top: 35px;padding-bottom: 0px;}
+    .prejectEndArea {width: 100%;text-align: center}
+    .prejectEndArea h1 {font-size: 51px;margin-top: 0px;margin-right: 0px;}
+    .myBoxArea {	width: 100%;margin-top: 35px;}
+    .single_box_2 {float: left;	width: 100%;margin-bottom: 40px;}
+    .single_footer1 {width: 100%;}
+    .single_footer2 {width: 100%;margin-bottom: 40px;padding-left: 0px}
+    .single_footer1 a {margin-top: 15px;margin-bottom: 30px;float: right;}
+    .single_footer3 {width: 100%;padding-left: 0}
+    .single_footer3 input {	width: 50%;	display: block;}
+    input.footer_btn {	width: 86px !important;}
+    .border_area {	padding-bottom: 25px;} 
+    
+    
+    
+        
+}
+
+/*large device*/
+
+@media only screen and (min-width:768px) and (max-width:991px){
+    
+    .main_menu {width: 75%;}
+    .main_menu ul li a {padding: 10px 9px;}
+    .social_area {width: 25%;}
+    .social_area ul li a i {margin-right: 4px;}
+    .social_area ul li {float: right;}
+    .marquee {margin-bottom: 45px;}
+    .titltArea {margin-top: 10px;}
+    .titltArea h2 {	font-size: 40px;}
+    .titltArea p {	font-size: 24px;margin-bottom: 35px;}
+    .sBox1 {width: 98%;padding-bottom: 10px;}
+    .singleBox1 {margin-bottom: 25px;width: 22%;}
+    .singleBox1 img {width: 100%;}
+    .prejectEndArea {float: none;width: 100%;text-align: center;margin-bottom: 60px;}
+    .myBoxArea {width: 100%;}
+    .prejectEndArea h4 {margin-right: 0px;}
+    .prejectEndArea h1 {margin-right: 0px;}
+    
+    
+        
+}
+
+/*main width*/
+
+@media only screen and (min-width:992px) and (max-width:1040px){
+    
+    .social_area {	width: 22%;}
+    .main_menu {width: 71%;}
+    .sBox1 {width: 100%;}
+    .singleBox1 {margin-right: 17px;}
+    .myBoxArea {width: 61%;}
+    .prejectEndArea {width: 39%;}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+}
